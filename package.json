@@ -1,0 +1,24 @@
+{
+  "name": "moluoxixi",
+  "private": true,
+  "author": {
+    "email": "",
+    "name": "moluoxixi",
+    "url": ""
+  },
+  "scripts": {
+    "build": "npm run generate",
+    "generate": "tsx scripts/generate.ts",
+    "prepare": "husky install"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@yunyoujun/utils": "^0.3.5",
+    "consola": "^3.2.3",
+    "husky": "^9.0.11",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
+  }
+}
