@@ -4,8 +4,6 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 
 [我的个人博客](https://moluoxixi.github.io/blog/vitepress/)
 
-[![moluoxixi GitHub stats](https://github-readme-stats.vercel.app/api?username=kooriookami)](https://github.com/anuraghazra/github-readme-stats)
-
 #### electron
 
 如果你是electron爱好者,可以看看
