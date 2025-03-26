@@ -1,10 +1,14 @@
 {
   "name": "moluoxixi",
   "private": true,
-  "author": {
-    "email": "",
-    "name": "moluoxixi",
-    "url": ""
+  "packageManager": "pnpm@8.6.0",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "author": "1983531544@qq.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moluoxixi/moluoxixi.git"
   },
   "scripts": {
     "build": "npm run generate",
