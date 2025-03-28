@@ -1,8 +1,33 @@
-yarn.lock
-package-lock.json
+# 用户
+/server/uploads
 
-.DS_Store
-node_modules
+# 日志文件
 *.log
-tmp
+*-debug.log*
+*-error.log*
+
+# 依赖
+node_modules
+.yarn
+*-lock.*
+
+# 打包文件
 dist
+dist-ssr
+docs
+.docs/.vitepress/cache
+.docs/.vitepress/dist
+#本地配置
+*.local
+
+# 编辑器文件
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.tsbuildinfo
