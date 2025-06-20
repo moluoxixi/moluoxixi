@@ -4,15 +4,22 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 
 [我的个人博客](https://moluoxixi.github.io/blog/vitepress/)
 
-#### electron
-
-如果你是electron爱好者,可以看看
-[https://github.com/orgs/componentProject/repositories](https://github.com/orgs/electron-template/repositories)
-
 #### component
 
 如果你想使用storybook/vitepress,想尝试搭建配置化表单.低代码等等
 [https://github.com/orgs/componentProject/repositories](https://github.com/orgs/componentProject/repositories)
+
+#### template
+
+如果你想找基于环境变量控制的vue3+pinia+qiankun(可选）+CDN(可选）+element-plus的项目模板等
+
+[vue-template](https://github.com/moluoxixi-template/vue-template.git)
+如果需要组件库文档：
+[vue-template-doc](https://github.com/moluoxixi-template/vue-template-docs.git)
+#### electron
+
+如果你是electron爱好者,可以看看
+[https://github.com/orgs/componentProject/repositories](https://github.com/orgs/electron-template/repositories)
 
 
 #### Languages
