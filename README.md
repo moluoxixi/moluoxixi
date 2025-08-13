@@ -6,7 +6,7 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 
 #### component
 
-如果你想使用storybook/vitepress,想尝试搭建配置化表单.低代码等等
+如果你想搭建自己的组件库可以看看我的组件库
 [https://github.com/orgs/componentProject/repositories](https://github.com/orgs/componentProject/repositories)
 
 #### template
