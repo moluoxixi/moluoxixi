@@ -2,7 +2,7 @@
 
 i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm learning nest.
 
-[我的个人博客](https://moluoxixi.github.io/blog/vitepress/)
+[我的个人博客](https://moluoxixi.github.io/sugaratBlog/)
 
 #### component
 
