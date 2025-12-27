@@ -12,8 +12,10 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 #### template
 
 将会改造为脚手架，分为组件库&普通项目&electron三个脚手架
-<! 
-如果你想找基于环境变量控制的vue3+pinia+qiankun(可选）+CDN(可选）+element-plus的项目模板等
+已改造完毕脚手架：[vite-cli](https://github.com/moluoxixi-template/vite-cli.git)
+待改造脚手架：electron-cli，doc-cli,comonents-cli
+
+以下是原模板仓库，有点糙，勿怪
 
 [vue-template](https://github.com/moluoxixi-template/vue-template.git)
 如果需要组件库文档：
