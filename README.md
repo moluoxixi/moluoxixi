@@ -13,9 +13,9 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 
 将会改造为脚手架，分为组件库&普通项目&electron三个脚手架
 
-已改造完毕脚手架：[vite-cli](https://github.com/moluoxixi-template/vite-cli.git)
+已完成初版脚手架：[vite-cli](https://github.com/moluoxixi-template/vite-cli.git)
 
-待改造脚手架：electron-cli，doc-cli,comonents-cli
+待完成脚手架：electron-cli(node-cli与vite-cli的超集，集成electron)，node-cli(支持常见后端，包含nest,express,koa),comonents-cli(组件库脚手架）
 
 以下是原模板仓库，有点糙，勿怪
 
