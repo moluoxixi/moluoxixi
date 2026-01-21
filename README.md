@@ -19,7 +19,9 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 - [ ] react+shadcn
 - [ ] react+antd
 - [ ] vue+antd-vue
+
 其他脚手架（未开始，无清单）
+
 - [ ] electron-cli(node-cli与vite-cli的超集)
 - [ ] node-cli(支持常见后端，包含nest,express,koa)
 - [ ] comonents-cli(组件库脚手架）
