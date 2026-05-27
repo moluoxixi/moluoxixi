@@ -4,12 +4,11 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 
 [我的个人博客](https://moluoxixi.github.io/sugaratBlog/)
 
-#### lowercode
-[配置化表单引擎(开发中)](https://github.com/moluoxixi/ConfigForm.git)
-#### component
+#### components
 
-如果你想搭建自己的组件库可以看看我的组件库
-[https://github.com/orgs/componentProject/repositories](https://github.com/orgs/componentProject/repositories)
+##### configForm
+[配置化表单引擎](https://github.com/moluoxixi/ConfigForm.git)
+基于zod实现的vue schema表单，支持插件，脱离ui库，目标是支持lowcode
 
 #### template
 
