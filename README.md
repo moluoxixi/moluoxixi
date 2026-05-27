@@ -5,9 +5,11 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 [我的个人博客](https://moluoxixi.github.io/sugaratBlog/)
 
 #### components
-
+旧组件库将被废弃
+如果大家想看我搭建的组件库请看新组件库：
+[vue-components](https://github.com/moluoxixi/vue-components)
 ##### configForm
-[配置化表单引擎](https://github.com/moluoxixi/ConfigForm.git)
+[配置化表单引擎](https://github.com/moluoxixi/vue-components/tree/main/packages/ConfigForm)
 基于zod实现的vue schema表单，支持插件，脱离ui库，目标是支持lowcode
 
 #### template
