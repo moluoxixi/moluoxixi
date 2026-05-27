@@ -12,6 +12,14 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 [配置化表单引擎](https://github.com/moluoxixi/vue-components/tree/main/packages/ConfigForm)
 基于zod实现的vue schema表单，支持插件，脱离ui库，目标是支持lowcode
 
+#### utils
+各种好用的[工具库](https://github.com/moluoxixi/utils.git)
+[AjaxPackage请求封装](https://github.com/moluoxixi/utils/tree/main/packages/AjaxPackage)
+[eslint](https://github.com/moluoxixi/utils/tree/main/packages/EslintConfig)
+[IndexDb](https://github.com/moluoxixi/utils/tree/main/packages/IndexedDB)
+[css前缀替换](https://github.com/moluoxixi/utils/tree/main/packages/PostcssSelectorPrefix)
+[viteconfig封装](https://github.com/moluoxixi/utils/tree/main/packages/ViteConfig)
+[excel导入导出](https://github.com/moluoxixi/utils/tree/main/packages/Excel)
 #### template
 
 将会改造为脚手架，分为组件库&普通项目&electron三个脚手架
