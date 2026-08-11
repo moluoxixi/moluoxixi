@@ -10,22 +10,22 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 由[新文档](https://moluoxixi.github.io/vue-components/)统一提供文档示例，包括配置化表单等
 
 ##### 
-[配置化表单引擎](https://github.com/moluoxixi/vue-components/tree/main/packages/ConfigForm)
+[配置化表单引擎](https://github.com/moluoxixi/vue-components/tree/main/packages/config-form)
 基于zod实现的vue schema表单，支持插件，脱离ui库，目标是支持lowcode
 
 #### utils
 
-[AjaxPackage请求封装]([https://github.com/moluoxixi/vue-components/tree/main/packages/AjaxPackage)
+[AjaxPackage请求封装]([https://github.com/moluoxixi/vue-components/tree/main/packages/ajax-package)
 
-[eslint](https://github.com/moluoxixi/vue-components/tree/main/packages/EslintConfig)
+[eslint](https://github.com/moluoxixi/vue-components/tree/main/packages/eslint-config)
 
-[IndexDb](https://github.com/moluoxixi/vue-components/tree/main/packages/IndexedDB)
+[IndexDb](https://github.com/moluoxixi/vue-components/tree/main/packages/indexed-dB)
 
-[css前缀替换，可统一为组件提供命名空间前缀且不影响使用，例如.el-table](https://github.com/moluoxixi/vue-components/tree/main/packages/PostcssSelectorPrefix)
+[css前缀替换，可统一为组件提供命名空间前缀且不影响使用，例如.el-table](https://github.com/moluoxixi/vue-components/tree/main/packages/postcss-selector-prefix)
 
-[viteconfig封装](https://github.com/moluoxixi/vue-components/tree/main/packages/ViteConfig)
+[viteconfig封装](https://github.com/moluoxixi/vue-components/tree/main/packages/vite-config)
 
-[excel导入导出](https://github.com/moluoxixi/vue-components/tree/main/packages/Excel)
+[excel导入导出](https://github.com/moluoxixi/vue-components/tree/main/packages/excel)
 
 #### template
 
