@@ -4,28 +4,28 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 
 [我的个人博客](https://moluoxixi.github.io/sugaratBlog/)
 
-#### components
-[旧组件库](https://github.com/componentProject/vue-component.git)将被废弃
-如果大家想看我搭建的组件库请看新组件库(文档待补充)：
-[vue-components](https://github.com/moluoxixi/vue-components)
-##### configForm
+#### components&utils
+[旧组件库](https://github.com/componentProject/vue-component.git)[旧工具库](https://github.com/moluoxixi/utils.git)将被废弃
+由[新仓库](https://github.com/moluoxixi/vue-components)统一维护
+由[新文档](https://moluoxixi.github.io/vue-components/)统一提供文档示例，包括配置化表单等
+
+##### 
 [配置化表单引擎](https://github.com/moluoxixi/vue-components/tree/main/packages/ConfigForm)
 基于zod实现的vue schema表单，支持插件，脱离ui库，目标是支持lowcode
 
 #### utils
-各种好用的[工具库](https://github.com/moluoxixi/utils.git)
 
-[AjaxPackage请求封装](https://github.com/moluoxixi/utils/tree/main/packages/AjaxPackage)
+[AjaxPackage请求封装]([https://github.com/moluoxixi/vue-components/tree/main/packages/AjaxPackage)
 
-[eslint](https://github.com/moluoxixi/utils/tree/main/packages/EslintConfig)
+[eslint](https://github.com/moluoxixi/vue-components/tree/main/packages/EslintConfig)
 
-[IndexDb](https://github.com/moluoxixi/utils/tree/main/packages/IndexedDB)
+[IndexDb](https://github.com/moluoxixi/vue-components/tree/main/packages/IndexedDB)
 
-[css前缀替换](https://github.com/moluoxixi/utils/tree/main/packages/PostcssSelectorPrefix)
+[css前缀替换，可统一为组件提供命名空间前缀且不影响使用，例如.el-table](https://github.com/moluoxixi/vue-components/tree/main/packages/PostcssSelectorPrefix)
 
-[viteconfig封装](https://github.com/moluoxixi/utils/tree/main/packages/ViteConfig)
+[viteconfig封装](https://github.com/moluoxixi/vue-components/tree/main/packages/ViteConfig)
 
-[excel导入导出](https://github.com/moluoxixi/utils/tree/main/packages/Excel)
+[excel导入导出](https://github.com/moluoxixi/vue-components/tree/main/packages/Excel)
 
 #### template
 
