@@ -13,30 +13,12 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 [配置化表单引擎](https://github.com/moluoxixi/vue-components/tree/main/packages/config-form)
 基于zod实现的vue schema表单，支持插件，脱离ui库，目标是支持lowcode
 
-#### utils
-
-[AjaxPackage请求封装]([https://github.com/moluoxixi/vue-components/tree/main/packages/ajax-package)
-
-[eslint](https://github.com/moluoxixi/vue-components/tree/main/packages/eslint-config)
-
-[IndexDb](https://github.com/moluoxixi/vue-components/tree/main/packages/indexed-dB)
-
-[css前缀替换，可统一为组件提供命名空间前缀且不影响使用，例如.el-table](https://github.com/moluoxixi/vue-components/tree/main/packages/postcss-selector-prefix)
-
-[viteconfig封装](https://github.com/moluoxixi/vue-components/tree/main/packages/vite-config)
-
-[excel导入导出](https://github.com/moluoxixi/vue-components/tree/main/packages/excel)
 
 #### template
 
 将会改造为脚手架，分为组件库&普通项目&electron三个脚手架
 
-跨框架vite脚手架[vite-cli](https://github.com/moluoxixi-template/vite-cli.git)
-- [x]  vue+element-plus
-- [x] 补充测试用例
-- [ ] react+shadcn
-- [ ] react+antd
-- [ ] vue+antd-vue
+跨框架vite脚手架[vite-cli](https://moluoxixi-template.github.io/vite-cli/)
 
 其他脚手架（未开始，无清单）
 
@@ -44,11 +26,6 @@ i am moluoxixi,a frontend developer(he/him) who is building in desktop/web.I'm l
 - [ ] node-cli(支持常见后端，包含nest,express,koa)
 - [ ] comonents-cli(组件库脚手架）
 
-以下是原模板仓库，有点糙，勿怪
-
-[vue-template](https://github.com/moluoxixi-template/vue-template.git)
-如果需要组件库文档：
-[vue-template-doc](https://github.com/moluoxixi-template/vue-template-docs.git)
 #### electron
 
 如果你是electron爱好者,可以看看
